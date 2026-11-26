@@ -9,8 +9,8 @@
  *
  * INSIGHTS GAIN FROM THIS QUESTION: ( ANY NOTES, IDEAS, NEW TRICKS / THIS WILL HELP IN QUICK REVISION )
  * __________________________________________________
- * 
- * __________________________________________________
+ * We can use a brute force approach to solve this problem by using two nested loops to check all pairs of indices (i, j) in the array. If nums[i] == nums[j] and i < j, we increment the count of good pairs. This approach has a time complexity of O(n^2), where n is the size of the input array.
+ * Weekly Contest 197: This problem was part of LeetCode Weekly Contest 197.
  *
  */
 
