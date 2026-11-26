@@ -1,5 +1,5 @@
 /*
- * DATE: 13/11/2026
+ * DATE: 14/11/2026
  *
  * PROBLEM LINK: https://leetcode.com/problems/number-of-good-pairs/description/?envType=problem-list-v2&envId=hash-table
  * PROBLEM STATEMENT: You are given an array of integers nums. A pair of indices (i, j) is called good if nums[i] == nums[j] and i < j. Return the number of good pairs.
