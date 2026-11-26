@@ -10,6 +10,7 @@
  * INSIGHTS GAIN FROM THIS QUESTION: ( ANY NOTES, IDEAS, NEW TRICKS / THIS WILL HELP IN QUICK REVISION )
  * __________________________________________________
  * We can use a hash map to store the frequency of each stone in the stones string. Then, we iterate through the jewels string and sum up the frequencies of the jewels found in the hash map. This approach has a time complexity of O(n + m), where n is the length of the stones string and m is the length of the jewels string.
+ * Weekly Contest 69: This problem was part of LeetCode Weekly Contest 69.
  * __________________________________________________
  *
  */
